@@ -1,5 +1,4 @@
 <h1 align="center">Hi👋,This is sukhdeep</h1>
-
  # 💫About Me:
  
 - ✨ username: @sukhdeep143
