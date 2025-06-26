@@ -2,9 +2,8 @@
 <h3 align="center">A passionate Full Stack Developer from India 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=600&lines=Self-taught+Full+Stack+Developer;Learning+MERN,+Next.js,+Node.js;Open+Source+Enthusiast+🚀;Always+learning+new+technologies+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=600&lines=Full+Stack+Web+Developer;Learning+MERN+Stack+and+Next.js;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
-
 
 ---
 
