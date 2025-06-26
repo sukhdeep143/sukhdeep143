@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer from India 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=800&lines=Self-taught+Full+Stack+Developer;Learning+MERN%2C+Next.js%2C+Node.js;Open+Source+Enthusiast+%F0%9F%9A%80;Always+learning+new+technologies+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=600&lines=Self-taught+Full+Stack+Developer;Learning+MERN,+Next.js,+Node.js;Open+Source+Enthusiast+🚀;Always+learning+new+technologies+💻" alt="Typing SVG" />
 </p>
 
 
@@ -48,7 +48,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sukhdeep143&show_icons=true&theme=radical" alt="sukhdeep143's GitHub Stats"/>
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=sukhdeep143&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sukhdeep143&theme=radical&hide_border=false" alt="GitHub Streak Stats"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukhdeep143&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
