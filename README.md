@@ -5,6 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=800&lines=Self-taught+Full+Stack+Developer;Learning+MERN%2C+Next.js%2C+Node.js;Open+Source+Enthusiast+%F0%9F%9A%80;Always+learning+new+technologies+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
+
 ---
 
 ## 💫 About Me
