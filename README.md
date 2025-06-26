@@ -2,7 +2,9 @@
 <h3 align="center">A passionate Full Stack Developer from India 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=600&lines=Full+Stack+Web+Developer;Learning+MERN+Stack+and+Next.js;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F78DA7&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Sukhdeep+Singh" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FEC260&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%7C+MERN+Stack+Learner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=87CEEB&center=true&vCenter=true&width=500&lines=Open+Source+Enthusiast+%7C+Tech+Explorer" />
 </p>
 
 ---
