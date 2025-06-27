@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer from India 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi,+I'm+Sukhdeep+Singh+-+Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=I'm+Sukhdeep+Singh+-+Full+Stack+Developer" />
 </p>
 
 
