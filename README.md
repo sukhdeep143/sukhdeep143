@@ -53,7 +53,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukhdeep143&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
-![Sukhdeep Singh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sukhdeep143&show_icons=true&count_private=true&theme=tokyonight)
 
 
 ---
